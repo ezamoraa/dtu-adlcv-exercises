@@ -1,0 +1,11 @@
+**/__pycache__
+*.pyc
+.data
+**/data
+*.pdf
+*.pth
+*.pt
+*.png
+*.jpg
+*.zip
+runs
